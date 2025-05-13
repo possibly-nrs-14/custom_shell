@@ -1,0 +1,15 @@
+hello
+ech 123456789012 | wc
+echo 123456789012 | wc
+end
+ls
+ls | grep 'a'
+reveal
+ls
+cat a.txt
+rm a.txt
+echo hello there > a.txt
+cat < a.txt | wc | cat > b.txt
+cat < a.txt
+cat a.txt
+cat < a.txt | wc | cat > b.txt
