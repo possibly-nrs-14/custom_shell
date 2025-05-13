@@ -1,5 +1,5 @@
 
-# Custom Shell Implementation - Final Submission
+# Custom Shell Implementation in C
 
 
 
@@ -161,5 +161,3 @@ The project includes a `Makefile` that automates the compilation process. Runnin
    - The shell assumes that the size of the input will not be more than 4096 characters
 
 
-
-AI tools: ChatGPT was used to assist for this project. The prompts used and their output can be found in the pdf `prompts.pdf`
