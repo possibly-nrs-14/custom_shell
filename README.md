@@ -113,13 +113,6 @@ This project is a custom shell implementation in C, which mimics some of the fun
 
 
 
-## Changes to functionalities and file structure since mid - submission
-- **Error handling**: Included red coloring for all errors.
-- **reveal.c**: Included information about total number of blocks per directory in the display.
-- **log.c**: Implemented the "log execute" function in a different way to make the code more modular.
-- **sys_commands.c**: Fixed an issue which was causing the shell to freeze after erroneous commands were called.
-- **seek.c**: Fixed a double-free error which was happening when both -d and -f flags were called.
-- **Combination of header files**: All header files were combined into one (`all_functions.h`) in order to make it easier for every functionality to be able to access functions of any other functionality.
 
 
 
